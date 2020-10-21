@@ -1,4 +1,7 @@
 <img align='center' src='https://github.com/adalbertobrant/adalbertobrant/blob/main/Banner-Adalberto.png' >
+<img align = 'left' src='https://github.com/adalbertobrant/adalbertobrant/blob/main/OctoCat-P%26D.png' >
+<img align = 'right' src = 'https://github.com/adalbertobrant/adalbertobrant/blob/main/OctoCat-P%26D.png'>
+<img align = 'left' src='https://github.com/adalbertobrant/adalbertobrant/blob/main/OctoCat-P%26D.png'>
 
 ### Hi there 👋, I'm Adalberto Brant! 
 
