@@ -1,3 +1,5 @@
+<img align='center' src='https://github.com/adalbertobrant/adalbertobrant/blob/main/Banner-Adalberto.png' width='200"'>
+
 ### Hi there 👋, I'm Adalberto Brant! 
 
 <!--
