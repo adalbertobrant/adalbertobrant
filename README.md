@@ -1,4 +1,4 @@
-<img align='center' src='https://github.com/adalbertobrant/adalbertobrant/blob/main/Banner-Adalberto.png' width='200"'>
+<img align='center' src='https://github.com/adalbertobrant/adalbertobrant/blob/main/Banner-Adalberto.png' >
 
 ### Hi there 👋, I'm Adalberto Brant! 
 
