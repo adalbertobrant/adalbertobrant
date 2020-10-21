@@ -1,7 +1,8 @@
 <img align='center' src='https://github.com/adalbertobrant/adalbertobrant/blob/main/Banner-Adalberto.png' >
 <img align = 'left' src='https://github.com/adalbertobrant/adalbertobrant/blob/main/OctoCat-P%26D.png' >
-<img align = 'right' src = 'https://github.com/adalbertobrant/adalbertobrant/blob/main/OctoCat-P%26D.png'>
-<img align = 'left' src='https://github.com/adalbertobrant/adalbertobrant/blob/main/OctoCat-P%26D.png'>
+<img align = 'right' src = 'https://github.com/adalbertobrant/adalbertobrant/blob/main/OctoCat-%20The%20Rapper.png'>
+<img align = 'left' src='https://github.com/adalbertobrant/adalbertobrant/blob/main/OctoCat-%20The%20Student.png'>
+<img align = 'right' src = 'https://github.com/adalbertobrant/adalbertobrant/blob/main/OctoCat-The%20Gamer.png'>
 
 ### Hi there 👋, I'm Adalberto Brant! 
 
