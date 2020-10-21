@@ -20,10 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img id="mapa" src="https://github.com/adalbertobrant/adalbertobrant/blob/main/Banner-Adalberto.png" border="0" width="752" height="334" orgWidth="752" orgHeight="334" usemap="#mapas" alt="" />
-<map name="mapas" id="mapa">
-<area  alt="" title="" href="http://www.image-maps.com/" shape="rect" coords="18,70,423,112" style="outline:none;" target="_self"    data-maphilight='#estudos' />
-<area  alt="" title="" href="http://www.image-maps.com/" shape="rect" coords="17,109,422,151" style="outline:none;" target="_self"    data-maphilight='#Pesquisas' />
-<area  alt="" title="" href="http://www.image-maps.com/" shape="rect" coords="14,143,419,185" style="outline:none;" target="_self"    data-maphilight='#Músicas' />
-<area  alt="" title="" href="http://www.image-maps.com/" shape="rect" coords="18,185,423,227" style="outline:none;" target="_self"    data-maphilight='#Games' />
-</map>
+
