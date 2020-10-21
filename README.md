@@ -1,5 +1,5 @@
 <img align='center' src='https://github.com/adalbertobrant/adalbertobrant/blob/main/Banner-Adalberto.png' >
-<a href="#p&d" alt="P&D"><img align = 'left' src='https://github.com/adalbertobrant/adalbertobrant/blob/main/OctoCat-P%26D.png' width="100" ></a>
+<a href="#p&d" alt="P&D"><img align = 'left' src='https://github.com/adalbertobrant/adalbertobrant/blob/main/OctoCat-P%26D.png' width="125" ></a>
 <a href="#rapper" alt="Rapper"><img align = 'right' src = 'https://github.com/adalbertobrant/adalbertobrant/blob/main/OctoCat-%20The%20Rapper.png' width="150"></a>
 <a href="#Student" alt="Student"><img align = 'left' src='https://github.com/adalbertobrant/adalbertobrant/blob/main/OctoCat-%20The%20Student.png' width="100"></a>
 <a href="#Gamer" alt="Gamer"><img align = 'right' src = 'https://github.com/adalbertobrant/adalbertobrant/blob/main/OctoCat-The%20Gamer.png' width="100"></a>
