@@ -14,6 +14,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adalbertobrant)](https://github.com/anuraghazra/github-readme-stats)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=adalbertobrant)](https://github.com/anuraghazra/github-readme-stats)
+
 - 🔭 I’m currently working on https://www.hackathonsaudeinfantil.com.br/
 - 🌱 I’m currently learning Web Development
 - 👯 I’m looking to collaborate on open source projects for Health Science
