@@ -10,6 +10,8 @@
 <br></br>
 <br></br>
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=adalbertobrant)](https://github.com/anuraghazra/github-readme-stats)
+
 - 🔭 I’m currently working on https://www.hackathonsaudeinfantil.com.br/
 - 🌱 I’m currently learning Web Development
 - 👯 I’m looking to collaborate on open source projects for Health Science
