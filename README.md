@@ -16,7 +16,7 @@
 
 
 
-- 🔭 I’m currently working on https://www.hackathonsaudeinfantil.com.br/
+- 🔭 I’m currently working on Looking for New Open Source Projects in Health and Finance.
 - 🌱 I’m currently learning Web Development
 - 👯 I’m looking to collaborate on open source projects for Health Science
 - 🤔 I’m looking for help with AI, Deep Learning, Computer Vision
