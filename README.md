@@ -8,12 +8,7 @@
 ### Hi there 👋, I'm Adalberto Brant! 
 
 -------------------------------------------------
-<br></br>
-<br></br>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=adalbertobrant)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adalbertobrant)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
