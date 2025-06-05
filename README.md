@@ -1,8 +1,9 @@
-<img align='center' src='https://github.com/adalbertobrant/adalbertobrant/blob/main/Banner-Adalberto.png' >
-<a href="#p&d" alt="P&D"><img align = 'left' src='https://github.com/adalbertobrant/adalbertobrant/blob/main/OctoCat-P%26D.png' width="125" ></a>
-<a href="#rapper" alt="Rapper"><img align = 'right' src = 'https://github.com/adalbertobrant/adalbertobrant/blob/main/OctoCat-%20The%20Rapper.png' width="150"></a>
-<a href="#Student" alt="Student"><img align = 'left' src='https://github.com/adalbertobrant/adalbertobrant/blob/main/OctoCat-%20The%20Student.png' width="100"></a>
-<a href="#Gamer" alt="Gamer"><img align = 'right' src = 'https://github.com/adalbertobrant/adalbertobrant/blob/main/OctoCat-The%20Gamer.png' width="100"></a>
+<div align="center">
+  <a href="https://github.com/adalbertobrant">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adalbertobrant&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adalbertobrant&layout=compact&langs_count=8&theme=dracula&hide_border=true"/>
+  </a>
+</div>
 
 ### Hi there 👋, I'm Adalberto Brant! 
 
